@@ -25,8 +25,8 @@ _______
 ![](https://img.shields.io/badge/DEV-C-A8B9CC?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/DEV-C++-00599C?style=for-the-badge&logo=c%2B%2B)
 ![](https://img.shields.io/badge/DEV-Swift-FA7343?style=for-the-badge&logo=Swift)
-![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
 
+![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
 ![](https://img.shields.io/badge/DEV-Firebase-FFCA28?style=for-the-badge&logo=Firebase)
 ![](https://img.shields.io/badge/DEV-CoreData-000000?style=for-the-badge&logo=Apple)
 
