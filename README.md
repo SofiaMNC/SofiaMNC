@@ -7,7 +7,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 
-
 - 👩🏽‍💻 I’m currently working on releasing a new mobile app
 - 🌱 I’m currently learning Flutter and Vapor 
 - 👯 I’m looking to collaborate on mobile accessibility and ML projects, ideally both combined (ML for accessibility on mobile)
