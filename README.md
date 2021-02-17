@@ -49,7 +49,7 @@ _______
 ![](https://img.shields.io/badge/IDE-Jupyter-F37626?style=for-the-badge&logo=Jupyter)
 
 
-### 🛠 General Purpose Tools
+### ⚙️ General Purpose Tools
 ![](https://img.shields.io/badge/VERSIONING-Git-F05032?style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/VERSIONING-GitHub-181717?style=for-the-badge&logo=GitHub)
 ![](https://img.shields.io/badge/VERSIONING-GitLab-FCA121?style=for-the-badge&logo=GitLab)
@@ -68,7 +68,7 @@ _______
 
 _______
 
-## 💬 Connect with me
+## 💬 Connect with Me
 
 [![](https://img.shields.io/badge/FIND_ME_ON-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn)](http://www.linkedin.com/in/sofiachevrolat)
 
