@@ -80,3 +80,10 @@ _______
 
 [![](https://img.shields.io/badge/SAY_HI_ON-Swiftalk_Discord-7289DA?style=for-the-badge&logo=Discord)]()
 
+_______
+
+## 👩🏽‍💻 What and where I'm currently working on
+
+- [Technical Director at EMC2 Informatique](https://www.emc2-informatique.com)
+- [Freelance at Upwork](https://www.upwork.com/freelancers/~010c0268a854a0452f)
+- [Content writer at IGT News](https://blog.igtprivilege.fr)
