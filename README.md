@@ -82,9 +82,3 @@ _______
 
 [![](https://img.shields.io/badge/SAY_HI_ON-Swiftalk_Discord-7289DA?style=for-the-badge&logo=Discord)]()
 
-
-
-_______
-
-## ✍🏼 Latest Blog Posts: 
-
