@@ -1,4 +1,3 @@
-![alt text](logoLong.png)
 ![alt text](https://github.com/madimedia/madimedia/blob/main/logoLong.png?raw=true)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏝
