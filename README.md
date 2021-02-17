@@ -74,7 +74,7 @@ _______
 
 [![](https://img.shields.io/badge/DROP_A_LINE_AT-My_email-3ABFE6?style=for-the-badge&logo=Minutemailer)](sofia.chevrolat@madimedia.pro)
 
-[![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](www.madimedia.pro)
+[![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](https://www.madimedia.pro)
 
 [![](https://img.shields.io/badge/HOLLA_ON-iOS_DEV_Slack-4A154B?style=for-the-badge&logo=Slack)](ios-developers.slack.com)
 
