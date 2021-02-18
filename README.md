@@ -1,6 +1,7 @@
 ![alt text](https://github.com/madimedia/madimedia/blob/main/logoLong.png?raw=true)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏝
+<!--# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏝-->
+# Hello, folks! <img src="https://github.com/madimedia/madimedia/blob/main/wave.gif" width="30px"> 🏝
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -32,7 +33,7 @@ _______
 
 ![](https://img.shields.io/badge/IDE-Xcode-1575F9?style=for-the-badge&logo=Xcode)
 ![](https://img.shields.io/badge/IDE-VS-5C2D91?style=for-the-badge&logo=Visual%20Studio)
-![](https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
 
 ### 🤖 Data Science and Machine Learning
 ![](https://img.shields.io/badge/DEV-Python-3776AB?style=for-the-badge&logo=python)
