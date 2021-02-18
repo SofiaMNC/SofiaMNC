@@ -37,16 +37,16 @@ _______
 ### 🤖 Data Science and Machine Learning
 ![](https://img.shields.io/badge/DEV-Python-3776AB?style=for-the-badge&logo=python)
 
-![](https://img.shields.io/badge/DEV-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
-![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
 ![](https://img.shields.io/badge/DEV-Pandas-150458?style=for-the-badge&logo=Pandas)
 ![](https://img.shields.io/badge/DEV-Scikit_learn-F7941E?style=for-the-badge&logo=scikit-learn)
 ![](https://img.shields.io/badge/DEV-Keras-D00000?style=for-the-badge&logo=Keras)
 ![](https://img.shields.io/badge/DEV-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow)
 ![](https://img.shields.io/badge/DEV-Spark-E25A1C?style=for-the-badge&logo=Apache%20Spark)
+![](https://img.shields.io/badge/DEV-Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit)
+![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
 
-![](https://img.shields.io/badge/IDE-VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
-![](https://img.shields.io/badge/IDE-Jupyter-F37626?style=for-the-badge&logo=Jupyter)
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code)
+![](https://img.shields.io/badge/Notebook-Jupyter-F37626?style=for-the-badge&logo=Jupyter)
 
 
 ### ⚙️ General Purpose Tools
