@@ -1,6 +1,5 @@
 ![alt text](https://github.com/madimedia/madimedia/blob/main/logoLong.png?raw=true)
 
-<!--# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 🏝-->
 # Hello, folks! <img src="https://github.com/madimedia/madimedia/blob/main/wave.gif" width="30px"> 🏝
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
