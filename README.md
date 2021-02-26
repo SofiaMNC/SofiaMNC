@@ -59,6 +59,7 @@ _______
 ![](https://img.shields.io/badge/DEVOPS-AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS)
 
 ![](https://img.shields.io/badge/DOCUMENTATION-Swagger-85EA2D?style=for-the-badge&logo=Swagger)
+![](https://img.shields.io/badge/DOCUMENTATION-Doxygen-8CA1AF?style=for-the-badge&logo=Read%20The%20Docs)
 
 
 ### ✅  Management
