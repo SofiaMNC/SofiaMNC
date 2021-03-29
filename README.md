@@ -85,6 +85,6 @@ _______
 
 ## 👩🏽‍💻 What and where I'm currently working on
 
-- [Technical Director at EMC2 Informatique](https://www.emc2-informatique.com)
+- [Freelance at MADIMEDIA](https://www.madimedia.pro)
 - [Freelance at Upwork](https://www.upwork.com/freelancers/~010c0268a854a0452f)
 - [Content writer at IGT News](https://blog.igtprivilege.fr)
