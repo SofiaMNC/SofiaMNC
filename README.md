@@ -85,6 +85,5 @@ _______
 
 ## 👩🏽‍💻 What and where I'm currently working on
 
-- [Freelance at MADIMEDIA](https://www.madimedia.pro)
+- [Freelance at MADIMEDIA](https://www.madimedia.pro) currently working at [Slumber](https://www.slumber.group)
 - [Freelance at Upwork](https://www.upwork.com/freelancers/~010c0268a854a0452f)
-- [Content writer at IGT News](https://blog.igtprivilege.fr)
