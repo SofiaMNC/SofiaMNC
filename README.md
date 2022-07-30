@@ -9,7 +9,7 @@
 
 - 👩🏽‍💻 I’m currently working on releasing a new mobile app
 - 🌱 I’m currently learning Flutter and Vapor 
-- 👯 I’m looking to collaborate on mobile accessibility and ML projects, ideally both combined (ML for accessibility on mobile)
+- 👯 I’m looking to collaborate on health and fitness projects in the mobile sphere
 - ⚡ Fun fact: I am a mermaid 🧜🏼‍♀️ 
 
 _______
@@ -22,9 +22,9 @@ _______
 ![](https://img.shields.io/badge/DESIGN-Sketch-F7B500?style=for-the-badge&logo=sketch)
 
 ### 🎛  🖥  📱 Embedded, Desktop and Mobile
+![](https://img.shields.io/badge/DEV-Swift-FA7343?style=for-the-badge&logo=Swift)
 ![](https://img.shields.io/badge/DEV-C-A8B9CC?style=for-the-badge&logo=C)
 ![](https://img.shields.io/badge/DEV-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![](https://img.shields.io/badge/DEV-Swift-FA7343?style=for-the-badge&logo=Swift)
 
 ![](https://img.shields.io/badge/DEV-OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV)
 ![](https://img.shields.io/badge/DEV-Firebase-FFCA28?style=for-the-badge&logo=Firebase)
