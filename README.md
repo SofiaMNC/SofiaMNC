@@ -8,7 +8,6 @@
 
 
 - 👩🏽‍💻 I’m currently working on releasing a new mobile app
-- 🌱 I’m currently learning Flutter and Vapor 
 - 👯 I’m looking to collaborate on health and fitness projects in the mobile sphere
 - ⚡ Fun fact: I am a mermaid 🧜🏼‍♀️ 
 
@@ -77,13 +76,9 @@ _______
 
 [![](https://img.shields.io/badge/CHECK_OUT-My_Website-2FCEA0?style=for-the-badge&logo=Skyliner)](https://www.madimedia.pro)
 
-[![](https://img.shields.io/badge/HOLLA_ON-iOS_DEV_Slack-4A154B?style=for-the-badge&logo=Slack)](ios-developers.slack.com)
-
-[![](https://img.shields.io/badge/SAY_HI_ON-Swiftalk_Discord-7289DA?style=for-the-badge&logo=Discord)]()
-
 _______
 
 ## 👩🏽‍💻 What and where I'm currently working on
 
-- [Freelance at MADIMEDIA](https://www.madimedia.pro) currently working at [Slumber](https://slumber.group)
+- [Freelance at MADIMEDIA](https://www.madimedia.pro)
 - [Freelance at Upwork](https://www.upwork.com/freelancers/~010c0268a854a0452f)
