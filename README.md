@@ -8,6 +8,7 @@
 
 
 - 👩🏽‍💻 I’m currently working on releasing a new mobile app
+- 📲 Check out and download my latest [app](https://iampositive.madimedia.pro)
 - 👯 I’m looking to collaborate on health and fitness projects in the mobile sphere
 - ⚡ Fun fact: I am a mermaid 🧜🏼‍♀️ 
 
