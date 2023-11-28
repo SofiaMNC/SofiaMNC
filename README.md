@@ -11,7 +11,7 @@ _______
 - 👩🏽‍💻 I’m always working on releasing a new mobile app
 - 📲 Check out and download my latest [app](https://iampositive.madimedia.pro)
 - 👯 I’m looking to collaborate on impactful projects (environment, health and fitness, accessibility) in the mobile sphere
-- 🏋🏽‍♀️ I like Olympic Weightlifting
+- 💃🏽🏋🏽‍♀️ I like Dancing and Olympic Weightlifting
 _______
 
 ![](https://forthebadge.com/images/badges/made-with-swift.svg)
