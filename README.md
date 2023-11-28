@@ -2,9 +2,9 @@
 
 I'm Sofia, a passionate Software Engineer and trained data scientist from [Martinique](https://www.google.com/search?client=safari&rls=en&q=martinique&ie=UTF-8&oe=UTF-8) 🩵.
 
-![](https://img.shields.io/badge/Native_Development_on_Apple_Platforms-8A2BE2)
-![](https://img.shields.io/badge/Embedded_Systems-8A2BE2)
-![](https://img.shields.io/badge/Desktop-8A2BE2)
+![](https://img.shields.io/badge/Native_Development_on_Apple_Platforms-2cc3e4)
+![](https://img.shields.io/badge/Embedded_Systems-2cc3e4)
+![](https://img.shields.io/badge/Desktop-2cc3e4)
 
 _______
 
@@ -18,3 +18,4 @@ _______
 ![](https://forthebadge.com/images/badges/made-with-c.svg)
 ![](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
+![](https://forthebadge.com/images/badges/built-with-love.svg)
